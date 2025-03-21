@@ -1,0 +1,6 @@
+/.ipynb_checkpoints
+caltech-101.zip
+
+caltech-101/101_ObjectCategories
+caltech-101/Annotations
+caltech-101/show_annotation.m
